@@ -1,0 +1,5 @@
+Ahmet 5
+Burak 30
+Cevik 30
+Kemal 20
+Pasa 15
